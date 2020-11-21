@@ -94,3 +94,5 @@ C:\NicolasFattori\FileSystem\Negocio.Test\obj\Debug\netcoreapp3.1\Negocio.Test.c
 C:\NicolasFattori\FileSystem\Negocio.Test\obj\Debug\netcoreapp3.1\Negocio.Test.dll
 C:\NicolasFattori\FileSystem\Negocio.Test\obj\Debug\netcoreapp3.1\Negocio.Test.pdb
 C:\NicolasFattori\FileSystem\Negocio.Test\obj\Debug\netcoreapp3.1\Negocio.Test.genruntimeconfig.cache
+C:\NicolasFattori\FileSystem\Negocio.Test\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\NicolasFattori\FileSystem\Negocio.Test\bin\Debug\netcoreapp3.1\Negocio.pdb
