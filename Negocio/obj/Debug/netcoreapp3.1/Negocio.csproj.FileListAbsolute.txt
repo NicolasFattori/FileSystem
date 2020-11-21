@@ -1,0 +1,8 @@
+C:\NicolasFattori\FileSystem\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\NicolasFattori\FileSystem\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\NicolasFattori\FileSystem\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\NicolasFattori\FileSystem\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\NicolasFattori\FileSystem\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\NicolasFattori\FileSystem\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\NicolasFattori\FileSystem\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\NicolasFattori\FileSystem\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

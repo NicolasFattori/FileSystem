@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0DMJXJHczptA2MavIcLewfdgW3gAlkOpaPcdFOOJtUhH7j2khYTpgD38r4EsQ1zXxaYpdXHQ+jbdE2AGzyrEg==",
+  "success": true,
+  "projectFilePath": "C:\\NicolasFattori\\FileSystem\\Ejercicio\\Ejercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l0689696\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

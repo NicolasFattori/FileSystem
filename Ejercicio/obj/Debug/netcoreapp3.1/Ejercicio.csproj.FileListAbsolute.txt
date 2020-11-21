@@ -1,0 +1,16 @@
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\NicolasFattori\FileSystem\Ejercicio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csprojAssemblyReference.cache
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CoreCompileInputs.cache
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CopyComplete
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\NicolasFattori\FileSystem\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.genruntimeconfig.cache
