@@ -8,3 +8,5 @@ cd [Path]: Permite navegar entre los diferentes directorios.
 help [Comando]: Permite ver la informacion del comando.
 
 Descargar archivos del repositorio : https://github.com/NicolasFattori/FileSystem , levantar el archivo Ejercicio.sln que se encuentra dentro de Ejercicio/ con visual studio y correr la solucion.
+
+Ante cualquier error que se produsca en la aplicacion vuelve al directorio raiz.
