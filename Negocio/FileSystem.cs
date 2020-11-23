@@ -31,6 +31,7 @@ namespace Negocio
             }
             catch (Exception)
             {
+                _pathUbicacionActual = _pathRaiz;
                 rtn = false;
             }
             return rtn;
@@ -58,6 +59,7 @@ namespace Negocio
             }
             catch (Exception)
             {
+                _pathUbicacionActual = _pathRaiz;
                 rtn = false;
             }
             return rtn;
@@ -78,14 +80,13 @@ namespace Negocio
                     rtn = true;
                 }
                 else
-                {
+                {                    
                     rtn = false;
                 }
-
             }
             catch (Exception)
             {
-
+                _pathUbicacionActual = _pathRaiz;
                 rtn = false;
             }
             return rtn;           
@@ -116,6 +117,7 @@ namespace Negocio
             }
             catch (Exception)
             {
+                _pathUbicacionActual = _pathRaiz;
                 rtn = "No se pudo mostrar los archivos";
             }
 
@@ -146,6 +148,7 @@ namespace Negocio
             }
             catch (Exception)
             {
+                _pathUbicacionActual = _pathRaiz;
                 rtn = "No se pudo mostrar los archivos recursivamente";
             }
 
@@ -166,6 +169,7 @@ namespace Negocio
             }
             catch (Exception)
             {
+                _pathUbicacionActual = _pathRaiz;
                 rtn = "No se pudo obtener la informacion del comando";
             }
 
